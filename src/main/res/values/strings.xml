@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">uber</string>
+    <string name="sign_in">Login</string>
+    <string name="register">Register</string>
+    <string name="u_b_e_r">U B E R</string>
+    <string name="ride">Looking for a ride?</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_direction_key">AIzaSyB8Sthp5dHbR8ren5Vd9n2u7I1C91SWuls</string>
+
+</resources>
